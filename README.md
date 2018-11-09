@@ -1,4 +1,4 @@
-# LiaoNingUniversity-MachineLearning
+# self-learning-files
 #######Private study materials#######
 
 #######本仓库为个人学习用#######
