@@ -1,6 +1,6 @@
 # LiaoNingUniversity-MachineLearning
-Private study materials
-
+#######Private study materials#######
+#######本仓库为个人学习用#######
 机器学习学习组安排
 1. 机器学习概述
 
