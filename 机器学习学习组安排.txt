@@ -47,7 +47,7 @@ xgboost
 （第八周）
 HMM、条件随机场及其自然语言处理中的应用
 
-5. 深度学习
+5. 深度学习 .......
 
 （第九周）
 神经网络的基本概念
@@ -62,5 +62,12 @@ GRU
 
 （第十一周）
 word embedding
+BERT
 
-6. 深度学习 .......
+（第十二周）
+Attention-based Model
+Generative Adversarial Network
+
+（第十三周）
+Proximal Policy Optimization
+Q-Learning
