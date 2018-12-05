@@ -62,5 +62,12 @@ GRU
 
 （第十一周）
 word embedding
+BERT
 
-6. 深度学习 .......
+（第十二周）
+Attention-based Model
+Generative Adversarial Network
+
+（第十三周）
+Proximal Policy Optimization
+Q-Learning
