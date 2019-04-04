@@ -1,0 +1,39 @@
+第一周
+Attention-based Model：赵文萱
+论文：宁春梅
+
+第二周
+论文：齐传凯
+系统：孙博
+
+
+第三周
+Attention-based Model-改：赵文萱
+Generative Adversarial Network：宁春梅
+
+
+第四周
+Proximal Policy Optimization：王宏旭
+Q-Learning：武子晗
+
+
+第五周
+论文：宁春梅
+论文：齐传凯
+
+
+第六周
+论文：赵文萱 
+技术/系统：孙博
+
+
+第七周
+论文：王宏旭 
+技术/系统：武子晗
+
+三周一轮
+
+第周
+
+
+第周
