@@ -1,5 +1,5 @@
 # self-learning-files
-#######Private study materials#######
+#######Private study files#######
 
 #######本仓库为个人学习用#######
 
