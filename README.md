@@ -5,7 +5,7 @@
 
 机器学习学习组安排
 
-
+-----------------------------【第一学期】-----------------------------
 1. 机器学习概述
 
 （第一周）
@@ -64,10 +64,41 @@ GRU
 word embedding
 BERT
 
-（第十二周）
-Attention-based Model
-Generative Adversarial Network
 
-（第十三周）
+-----------------------------【第二学期】-----------------------------
+
+（第一周）
+
+论文：A framework for data-driven analysis of materials under uncertainty: Countering the curse of dimensionality
+硅所项目汇报
+
+（第二周）
+
+Attention-based Model：赵文萱
+论文：Generative Adversarial Networks
+
+（第三周）
+
 Proximal Policy Optimization
 Q-Learning
+
+（第四周）
+
+论文：ATRANK
+论文：A Network-based End-to-End Trainable Task-oriented Dialogue System
+
+（第五周）
+
+硅所项目汇报
+论文：缺失
+
+（第六周）
+
+论文：Micro Behaviors: A New Perspective in E-commerceRecommender Systems
+对话系统常用评价方法
+
+（第七周）
+
+论文：Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning
+硅所项目工作相关进展
+
